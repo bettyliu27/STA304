@@ -1,0 +1,7 @@
+---
+title: "STA304_3"
+---
+
+  Welcome to my site.
+  My name is Betty.
+  I'm studying in math.
