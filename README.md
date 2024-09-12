@@ -1,1 +1,2 @@
-# STA304
+# betty's repo
+README file
